@@ -1,3 +1,9 @@
 [submodule "cityscapesScripts"]
 	path = cityscapesScripts
 	url = https://github.com/PeterouZh/cityscapesScripts.git
+[submodule "template_lib"]
+	path = template_lib
+	url = https://github.com/PeterouZh/template_lib.git
+[submodule "cocoapi"]
+	path = cocoapi
+	url = https://github.com/cocodataset/cocoapi.git

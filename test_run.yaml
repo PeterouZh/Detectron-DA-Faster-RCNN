@@ -1,0 +1,4 @@
+convert_cityscapes_to_coco:
+  dataset: "cityscapes_instance_only"
+  datadir: "~/.keras/cityscapes/gtFine"
+  outdir: "~/.keras/cityscapes/gtFine_coco"
